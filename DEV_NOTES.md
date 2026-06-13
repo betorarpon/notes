@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Ran linter, applied auto-fixes
 - Verified API endpoint response schema
 - Fixed minor edge case in input handling
+
+## 2026-06-13
+- Fixed off-by-one error in loop
